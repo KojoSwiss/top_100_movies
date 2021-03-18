@@ -1,0 +1,11 @@
+Cashier
+Dental hygienist
+Editor
+Engineer
+1
+Human resources
+Journalist
+Newsreader
+Nurse
+Shop assistant
+Soldier
